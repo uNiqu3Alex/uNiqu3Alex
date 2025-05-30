@@ -10,21 +10,46 @@
 
 ### 🧠 About Me
 
-- ⚙️ Currently working on **[GhostFi](https://github.com/uNiqu3Alex/GhostFi)** – an Evil Twin automation tool for Raspberry Pi  
-- 🎯 Passionate about **network security**, **wireless sniffing**, and building **field tools for red teaming**  
-- 🛠 Tinkering with low-level Linux networking, Python automation, and offensive security frameworks  
-- 📦 Focused on developing **portable hacking gadgets** with plugin systems and offline capabilities  
-- 🧪 Always exploring: plugin architectures, network mapping, rogue AP automation, GPS syncing for packets
+- ⚙️ Currently building **[GhostFi](https://github.com/uNiqu3Alex/GhostFi)** – a complete Evil Twin automation suite for Raspberry Pi  
+- 🛰 Passionate about **Wi-Fi hacking**, **network sniffing**, and **Linux-based field gadgets**
+- 🔬 Obsessed with automation, red teaming hardware, plugin systems, and packet analysis
+- 🎮 Tech explorer: from low-level interfaces to crafting interactive UIs for embedded tools
+- 🧪 Currently experimenting with GPS-integrated reconnaissance tools and local-only automation
 
 ---
 
-### 🚧 Current Projects
+### 🚀 Current Projects
 
-- **GhostFi** – modular Evil Twin framework with captive portal automation
-- **Pwnagotchi Plugins** – enhancements for WPA handshake intelligence and GPS traceability
-- **Pwnagotchi GPS Android Companion** – coming soon: mobile GPS endpoint for autonomous logging
+| 🔧 Project | 📄 Description |
+|-----------|----------------|
+| **GhostFi** | Modular Evil Twin framework with auto portal injection, deauth control, and recon |
+| **Pwnagotchi Plugins** | Enhancements for GPS, automation, and handshake intelligence |
+| **Pwnagotchi GPS Android Companion** | Android service to auto-log GPS traces for captured handshakes |
 
 ---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uNiqu3Alex&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### ☕ Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/uNiqu3Alex" target="_blank">
@@ -34,12 +59,19 @@
 
 ---
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=uNiqu3Alex&show_icons=true&theme=tokyonight" />
-</div>
+### 🎯 What's Next?
+
+- ⌨️ Build a plugin manager UI for GhostFi (like Pwnagotchi's)
+- 🔌 Design extensible plugin architecture with configurable triggers/hooks
+- 🌐 Web interface per-plugin for runtime config
+- 🛰 Make the GPS companion app fully autonomous with `/closest` endpoint
+- 🧱 Package it all into a deployable headless firmware
+
+---
 
 <div align="center">
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨  
+_Hacking with purpose. Building for the field._
 
 </div>
